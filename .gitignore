@@ -1,0 +1,10 @@
+/node_modules/
+/dist/
+/npm-debug.log*
+/typings/
+/.idea/
+/.vscode/
+/screenshots/
+/*.iml
+/messages.xlf
+/temp/

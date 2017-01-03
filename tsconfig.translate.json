@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "es2015",
+        "outDir": "temp",
+        "moduleResolution": "node",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true
+    },
+    "exclude": [
+        "dist",
+        "node_modules",
+        "e2e",
+        "**/*.spec.ts"
+    ],
+    "angularCompilerOptions": {
+        "genDir": "./"
+    }
+}
